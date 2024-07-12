@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Checksum.c" />
     <ClCompile Include="FuncA.c" />
     <ClCompile Include="FuncB.c" />
     <ClCompile Include="FuncC.c" />
@@ -134,6 +135,7 @@
     <ClCompile Include="ParseFunction.c" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Checksum.h" />
     <ClInclude Include="FuncA.h" />
     <ClInclude Include="FuncB.h" />
     <ClInclude Include="FuncC.h" />
