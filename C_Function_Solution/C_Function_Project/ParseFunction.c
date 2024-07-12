@@ -86,9 +86,5 @@ void ParseFunction(char receivedByte)
 			break;			
 	}
 
-
-
-
-
 }
 
