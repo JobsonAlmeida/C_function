@@ -2,7 +2,7 @@
 
 int main()
 {
-	char message[] = { 'G', 'B', 'A', 'X', 'Y', 'Q' };
+	char message[] = { 'H', 'B', 'A', 'X', 'Y', 'Q' };
 
 	for (int i = 0; i<6; i++)
 	{

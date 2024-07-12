@@ -11,5 +11,5 @@ uint8_t checksum(char header[], char opcode, uint8_t payload[])
 	*
 	*/
 
-	return checksum; //after the logic checksum returns the computed value
+	return checksum = 'Q'; //after the logic checksum returns the computed value
 }
